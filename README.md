@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Atualmente sou desenvolvedor FullStack utilizando PHP/Laravel<br>📚 Sou estudante de Bacharelado em Ciência da Computação</p>
+<p align="left">🧑‍💻 Atualmente atuo no desenvolvimento FullStack utilizando ecossistema PHP/Laravel<br>📚 Sou estudante de Bacharelado em Ciência da Computação</p>
 
 ###
 
