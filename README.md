@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo José Neto, moro em Garanhuns-PE</p>
+<p align="left">Me chamo José Portela, moro em Garanhuns-PE</p>
 
 ###
 
